@@ -1,3 +1,3 @@
 output "sample" {
-  value = "Hello world"
+  value = "Hello Welcome to aws and devops class"
 }
